@@ -20,9 +20,9 @@ switcherItem.states =
 	animationOptions:
 		time: switchSpeed
 
-Light_mode.states =
+Light_mode_screen.states =
 	active:		
-		image: Dark_mode.image
+		image: Dark_mode_screen.image
 	animationOptions:
 		time: switchSpeed
 
@@ -39,11 +39,13 @@ mainTitle.states =
 	animationOptions:
 		time: 0
 
-Light_mode.onTap ->
+Light_mode_screen.onTap ->
+	#side elements
 	switcher.stateCycle()
 	switcherItem.stateCycle()
-	Light_mode.stateCycle()
+	Light_mode_screen.stateCycle()
 	navTitle.stateCycle()
-	mainTitle.stateCycle()	
+	mainTitle.stateCycle()
 	
+	#switch statusbar mode function
 	statusBar.switchMode(switchSpeed)
