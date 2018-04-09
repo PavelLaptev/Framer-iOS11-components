@@ -1,6 +1,6 @@
 iOS11Kit = require 'iOS11Kit'
 
-switchSpeed = 0.2
+switchSpeed = 0.4
 
 statusBar = new iOS11Kit.StatusBariPhoneX
 	updateTime: true
