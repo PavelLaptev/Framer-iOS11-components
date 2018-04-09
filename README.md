@@ -16,7 +16,7 @@ statusBar = new iOS11Kit.StatusBariPhoneX
 
 ### StatusBar for iPhoneX
 
-Demo: https://framer.cloud/oMsET
+Demo: https://framer.cloud/BvjhT
 
 ```coffeescript
 statusBar = new iOS11Kit.StatusBariPhoneX
