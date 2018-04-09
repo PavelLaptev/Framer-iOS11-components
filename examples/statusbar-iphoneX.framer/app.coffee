@@ -30,7 +30,7 @@ navTitle.states =
 	active:
 		color: "white"
 	animationOptions:
-		time: switchSpeed
+		time: 0
 
 mainTitle.states = 
 	active:
