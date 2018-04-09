@@ -21,7 +21,7 @@ switcherItem.states =
 		time: switchSpeed
 
 Light_mode.states =
-	active:
+	active:		
 		image: Dark_mode.image
 	animationOptions:
 		time: switchSpeed
@@ -30,7 +30,7 @@ navTitle.states =
 	active:
 		color: "white"
 	animationOptions:
-		time: 0
+		time: switchSpeed
 
 mainTitle.states = 
 	active:

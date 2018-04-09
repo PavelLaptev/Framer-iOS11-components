@@ -29,19 +29,19 @@ class exports.StatusBariPhoneX extends Layer
 		@signal = new Layer
 			name: "signal"
 			parent: @
-			width: 17, height: 11
+			width: 17, height: 12
 			x: Align.right(-64), y: 18
 			image: @opt.signalIcon
 		@wifi = new Layer
 			name: "wifi"
 			parent: @
-			width: 15, height: 11
+			width: 15, height: 12
 			x: Align.right(-44), y: 18
 			image: @opt.wifiIcon
 		@battery = new Layer
 			name: "battery"
 			parent: @
-			width: 24, height: 11
+			width: 25, height: 12
 			x: Align.right(-14), y: 18
 			image: @opt.batteryIcon
 			
