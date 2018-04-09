@@ -16,6 +16,8 @@ statusBar = new iOS11Kit.StatusBariPhoneX
 
 ### StatusBar for iPhoneX
 
+Demo: https://framer.cloud/oMsET
+
 ```coffeescript
 statusBar = new iOS11Kit.StatusBariPhoneX
   updateTime: true #enable time updating
