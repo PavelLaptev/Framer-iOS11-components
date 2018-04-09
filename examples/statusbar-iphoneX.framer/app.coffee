@@ -30,13 +30,14 @@ navTitle.states =
 	active:
 		color: "white"
 	animationOptions:
-		time: switchSpeed
+		time: 0
 
 mainTitle.states = 
 	active:
+		text: "Switch to Light mode"
 		color: "white"
 	animationOptions:
-		time: switchSpeed
+		time: 0
 
 Light_mode.onTap ->
 	switcher.stateCycle()

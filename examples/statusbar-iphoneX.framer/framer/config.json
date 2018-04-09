@@ -7,16 +7,16 @@
   "fullScreen" : false,
   "cachedDeviceWidth" : 375,
   "deviceType" : "apple-iphone-x-space-gray",
-  "sharedPrototype" : 0,
+  "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
-    "Filters" : false
+
   },
-  "projectId" : "845B1EA9-3161-4034-928B-1C5ECF72C494",
+  "projectId" : "39EA4C3C-1DF9-408E-A636-0889056A6634",
   "deviceOrientation" : 0,
   "selectedHand" : "",
   "showBezel" : 0,
   "foldedCodeRanges" : [
-    "{111, 535}"
+    "{111, 546}"
   ],
   "deviceScale" : "fit"
 }

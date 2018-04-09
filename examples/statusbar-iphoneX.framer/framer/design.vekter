@@ -30,7 +30,7 @@
         "children" : [
           {
             "__class" : "TextNode",
-            "autoSize" : true,
+            "autoSize" : false,
             "blendingEnabled" : 0,
             "blendingMode" : "normal",
             "blur" : 12,
@@ -39,7 +39,7 @@
             "bottom" : null,
             "brightness" : 100,
             "brightnessEnabled" : 0,
-            "centerAnchorX" : 0.46266666666666667,
+            "centerAnchorX" : 0.5,
             "centerAnchorY" : 0.46798029556650245,
             "constraintsLocked" : false,
             "contrast" : 100,
@@ -57,12 +57,12 @@
             "id" : "sqmynp4zQ",
             "invert" : 0,
             "invertEnabled" : 0,
-            "left" : null,
+            "left" : 20,
             "locked" : false,
             "name" : "mainTitle",
             "opacity" : 1,
             "parentid" : "DBsyy6XsY",
-            "right" : null,
+            "right" : 20,
             "rotation" : 0,
             "saturate" : 100,
             "saturateEnabled" : 0,
@@ -184,7 +184,7 @@
             "targetName" : "mainTitle",
             "top" : 306,
             "visible" : true,
-            "width" : 307,
+            "width" : 335,
             "widthFactor" : null
           },
           {
