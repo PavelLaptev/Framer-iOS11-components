@@ -52,7 +52,7 @@ class exports.StatusBariPhoneX extends Layer
 			Utils.interval 1, ->
 				timeLayer.text = new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})
 	
-	switchTheme: (time) ->
+	switchMode: (time) ->
 		time ?= 0.2
 		@.style["transition"] = "all " + time + "s"
 		if @.style["filter"] is "invert(0)"

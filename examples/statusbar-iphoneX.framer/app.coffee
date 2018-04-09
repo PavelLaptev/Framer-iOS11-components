@@ -46,4 +46,4 @@ Light_mode.onTap ->
 	navTitle.stateCycle()
 	mainTitle.stateCycle()	
 	
-	statusBar.switchTheme(switchSpeed)
+	statusBar.switchMode(switchSpeed)
