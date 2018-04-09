@@ -20,4 +20,7 @@ statusBar = new iOS11Kit.StatusBariPhoneX
 statusBar = new iOS11Kit.StatusBariPhoneX
   updateTime: true #enable time updating
   
+statusBar.switchTheme(switchSpeed) 
+#function will switch modes between dark and light
+  
 ```
