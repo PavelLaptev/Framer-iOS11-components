@@ -6,8 +6,18 @@ Copy and paste **iOS11Kit.coffee** and **iOS11KitComponents folder** into Framer
 
 Write a require request and create a new component from the iOS11Kit like that
 
-```
+```coffeescript
 iOS11Kit = require 'iOS11Kit'
 
 statusBar = new iOS11Kit.StatusBariPhoneX
+```
+
+## List of components
+
+### StatusBar for iPhoneX
+
+```coffeescript
+statusBar = new iOS11Kit.StatusBariPhoneX
+  updateTime: true #enable time updating
+  
 ```
