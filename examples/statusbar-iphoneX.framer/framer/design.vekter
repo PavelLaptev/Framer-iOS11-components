@@ -363,7 +363,7 @@
             "borderStyle" : "solid",
             "borderTop" : 1,
             "borderWidth" : 1,
-            "bottom" : 302,
+            "bottom" : null,
             "boxShadows" : [
 
             ],
@@ -419,7 +419,7 @@
               }
             ],
             "clip" : false,
-            "constraintsLocked" : false,
+            "constraintsLocked" : true,
             "contrast" : 100,
             "contrastEnabled" : 0,
             "deviceType" : null,
@@ -471,7 +471,7 @@
             "sepia" : 0,
             "sepiaEnabled" : 0,
             "targetName" : "switcher",
-            "top" : null,
+            "top" : 478,
             "visible" : true,
             "width" : 66,
             "widthFactor" : null
@@ -896,7 +896,7 @@
             "borderStyle" : "solid",
             "borderTop" : 1,
             "borderWidth" : 1,
-            "bottom" : 302,
+            "bottom" : null,
             "boxShadows" : [
 
             ],
@@ -952,7 +952,7 @@
               }
             ],
             "clip" : false,
-            "constraintsLocked" : false,
+            "constraintsLocked" : true,
             "contrast" : 100,
             "contrastEnabled" : 0,
             "deviceType" : null,
@@ -1004,7 +1004,7 @@
             "sepia" : 0,
             "sepiaEnabled" : 0,
             "targetName" : "on_switcher",
-            "top" : null,
+            "top" : 478,
             "visible" : true,
             "width" : 66,
             "widthFactor" : null
